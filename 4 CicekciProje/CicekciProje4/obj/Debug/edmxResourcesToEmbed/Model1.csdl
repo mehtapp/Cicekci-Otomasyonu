@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema xmlns="http://schemas.microsoft.com/ado/2009/11/edm" xmlns:cg="http://schemas.microsoft.com/ado/2006/04/codegeneration" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" Namespace="Model1" Alias="Self" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" annotation:UseStrongSpatialTypes="false">
+  <EntityContainer Name="Model1Container" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="kullaniciSet" EntityType="Model1.kullanici" />
+    <EntitySet Name="musteriSet" EntityType="Model1.musteri" />
+    <EntitySet Name="UrunSet" EntityType="Model1.Urun" />
+    <EntitySet Name="SiparisSet" EntityType="Model1.Siparis" />
+    <AssociationSet Name="musteriSiparis" Association="Model1.musteriSiparis">
+      <End Role="musteri" EntitySet="musteriSet" />
+      <End Role="Siparis" EntitySet="SiparisSet" />
+    </AssociationSet>
+    <AssociationSet Name="UrunSiparis" Association="Model1.UrunSiparis">
+      <End Role="Urun" EntitySet="UrunSet" />
+      <End Role="Siparis" EntitySet="SiparisSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="kullanici">
+    <Key>
+      <PropertyRef Name="Kul_id" />
+    </Key>
+    <Property Name="Kul_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="kulAd" Type="String" Nullable="false" />
+    <Property Name="kulSifre" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="musteri">
+    <Key>
+      <PropertyRef Name="Mus_id" />
+    </Key>
+    <Property Name="Mus_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="MusteriAd" Type="String" Nullable="false" />
+    <Property Name="MusAdres" Type="String" Nullable="false" />
+    <Property Name="MusTel" Type="String" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Urun">
+    <Key>
+      <PropertyRef Name="Urun_id" />
+    </Key>
+    <Property Name="Urun_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UrunAd" Type="String" Nullable="false" />
+    <Property Name="UrunFiyat" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Siparis">
+    <Key>
+      <PropertyRef Name="Sip_id" />
+    </Key>
+    <Property Name="Sip_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SipAdres" Type="String" Nullable="false" />
+    <Property Name="Adet" Type="Int32" Nullable="false" />
+    <Property Name="Tutar" Type="Int32" Nullable="false" />
+    <Property Name="mus_id" Type="Int32" Nullable="false" />
+    <Property Name="Urun_id" Type="Int32" Nullable="false" />
+  </EntityType>
+  <Association Name="musteriSiparis">
+    <End Type="Model1.musteri" Role="musteri" Multiplicity="1" />
+    <End Type="Model1.Siparis" Role="Siparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="musteri">
+        <PropertyRef Name="Mus_id" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="mus_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UrunSiparis">
+    <End Type="Model1.Urun" Role="Urun" Multiplicity="1" />
+    <End Type="Model1.Siparis" Role="Siparis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urun">
+        <PropertyRef Name="Urun_id" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="Urun_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

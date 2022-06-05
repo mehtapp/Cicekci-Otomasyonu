@@ -1,0 +1,96 @@
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.exe.config
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.exe
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Form1.resources
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.exe
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.pdb
+C:\Users\STUDENT2\Desktop\Mehtap\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Giris.resources
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.exe.config
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.exe
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.pdb
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.AssemblyReference.cache
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Form1.resources
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Giris.resources
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Properties.Resources.resources
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.GenerateResource.cache
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.CoreCompileInputs.cache
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.exe
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.pdb
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.dll
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.xml
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.UrunS.resources
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.CopyComplete
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Musteriler.resources
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Siparisler.resources
+C:\Users\STUDENT2\Desktop\Bugün\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Raporlar.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Form1.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Giris.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Musteriler.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Raporlar.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.Siparisler.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.UrunS.resources
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.exe
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.pdb
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.exe.config
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.exe
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\bin\Debug\CicekciProje4.pdb
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.dll
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.xml
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hvdem\Desktop\Bugün\CicekciProje4\CicekciProje4\obj\Debug\CicekciProje4.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\bin\Debug\CicekciProje4.exe.config
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\bin\Debug\CicekciProje4.exe
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\bin\Debug\CicekciProje4.pdb
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\bin\Debug\EntityFramework.dll
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\bin\Debug\EntityFramework.xml
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Giris.resources
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Musteriler.resources
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Siparisler.resources
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.UrunS.resources
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.exe
+C:\Users\hvdem\Desktop\Projeler\4CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.pdb
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\bin\Debug\CicekciProje4.exe.config
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\bin\Debug\CicekciProje4.exe
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\bin\Debug\CicekciProje4.pdb
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\bin\Debug\EntityFramework.dll
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\bin\Debug\EntityFramework.xml
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.AssemblyReference.cache
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.SuggestedBindingRedirects.cache
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Form1.resources
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Giris.resources
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Musteriler.resources
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Properties.Resources.resources
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Raporlar.resources
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.Siparisler.resources
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.UrunS.resources
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.GenerateResource.cache
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.CoreCompileInputs.cache
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.csproj.CopyComplete
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.exe
+C:\Users\hvdem\Desktop\Projeler\4 CicekciProje\CicekciProje4\obj\Debug\CicekciProje4.pdb

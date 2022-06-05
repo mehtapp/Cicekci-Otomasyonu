@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model1.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2012" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityContainer Name="Model1StoreContainer">
+    <EntitySet Name="kullaniciSet" EntityType="Model1.Store.kullaniciSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="musteriSet" EntityType="Model1.Store.musteriSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="UrunSet" EntityType="Model1.Store.UrunSet" store:Type="Tables" Schema="dbo" />
+    <EntitySet Name="SiparisSet" EntityType="Model1.Store.SiparisSet" store:Type="Tables" Schema="dbo" />
+    <AssociationSet Name="musteriSiparis" Association="Model1.Store.musteriSiparis">
+      <End Role="musteri" EntitySet="musteriSet" />
+      <End Role="Siparis" EntitySet="SiparisSet" />
+    </AssociationSet>
+    <AssociationSet Name="UrunSiparis" Association="Model1.Store.UrunSiparis">
+      <End Role="Urun" EntitySet="UrunSet" />
+      <End Role="Siparis" EntitySet="SiparisSet" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="kullaniciSet">
+    <Key>
+      <PropertyRef Name="Kul_id" />
+    </Key>
+    <Property Name="Kul_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="kulAd" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="kulSifre" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="musteriSet">
+    <Key>
+      <PropertyRef Name="Mus_id" />
+    </Key>
+    <Property Name="Mus_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MusteriAd" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MusAdres" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="MusTel" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UrunSet">
+    <Key>
+      <PropertyRef Name="Urun_id" />
+    </Key>
+    <Property Name="Urun_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UrunAd" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="UrunFiyat" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="SiparisSet">
+    <Key>
+      <PropertyRef Name="Sip_id" />
+    </Key>
+    <Property Name="Sip_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="SipAdres" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="Adet" Type="int" Nullable="false" />
+    <Property Name="Tutar" Type="int" Nullable="false" />
+    <Property Name="mus_id" Type="int" Nullable="false" />
+    <Property Name="Urun_id" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="musteriSiparis">
+    <End Role="musteri" Type="Model1.Store.musteriSet" Multiplicity="1" />
+    <End Role="Siparis" Type="Model1.Store.SiparisSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="musteri">
+        <PropertyRef Name="Mus_id" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="mus_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="UrunSiparis">
+    <End Role="Urun" Type="Model1.Store.UrunSet" Multiplicity="1" />
+    <End Role="Siparis" Type="Model1.Store.SiparisSet" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Urun">
+        <PropertyRef Name="Urun_id" />
+      </Principal>
+      <Dependent Role="Siparis">
+        <PropertyRef Name="Urun_id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

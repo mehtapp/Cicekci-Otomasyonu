@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Model1StoreContainer" CdmEntityContainer="Model1Container">
+    <EntitySetMapping Name="kullaniciSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.kullanici)">
+        <MappingFragment StoreEntitySet="kullaniciSet">
+          <ScalarProperty Name="Kul_id" ColumnName="Kul_id" />
+          <ScalarProperty Name="kulAd" ColumnName="kulAd" />
+          <ScalarProperty Name="kulSifre" ColumnName="kulSifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="musteriSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.musteri)">
+        <MappingFragment StoreEntitySet="musteriSet">
+          <ScalarProperty Name="Mus_id" ColumnName="Mus_id" />
+          <ScalarProperty Name="MusteriAd" ColumnName="MusteriAd" />
+          <ScalarProperty Name="MusAdres" ColumnName="MusAdres" />
+          <ScalarProperty Name="MusTel" ColumnName="MusTel" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UrunSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Urun)">
+        <MappingFragment StoreEntitySet="UrunSet">
+          <ScalarProperty Name="Urun_id" ColumnName="Urun_id" />
+          <ScalarProperty Name="UrunAd" ColumnName="UrunAd" />
+          <ScalarProperty Name="UrunFiyat" ColumnName="UrunFiyat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="SiparisSet">
+      <EntityTypeMapping TypeName="IsTypeOf(Model1.Siparis)">
+        <MappingFragment StoreEntitySet="SiparisSet">
+          <ScalarProperty Name="Sip_id" ColumnName="Sip_id" />
+          <ScalarProperty Name="SipAdres" ColumnName="SipAdres" />
+          <ScalarProperty Name="Adet" ColumnName="Adet" />
+          <ScalarProperty Name="Tutar" ColumnName="Tutar" />
+          <ScalarProperty Name="mus_id" ColumnName="mus_id" />
+          <ScalarProperty Name="Urun_id" ColumnName="Urun_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
